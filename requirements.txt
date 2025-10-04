@@ -1,0 +1,12 @@
+agno==2.0.11
+fastapi==0.118.0
+uvicorn==0.37.0
+pydantic==2.11.9
+pydantic-settings==2.11.0
+
+mcp==1.15.0
+openai==1.109.1
+anthropic==0.69.0
+groq==0.32.0
+google-generativeai==0.8.5
+ddgs==9.6.0  # DuckDuckGo search tool
